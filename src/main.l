@@ -1,4 +1,7 @@
-
+/* Data da submissao: 23/03/2020
+* Nome: Luiz Guilherme Silva Moreira
+* RA: 202391
+*/
 %{
 #include <stdio.h>
 %}
